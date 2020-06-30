@@ -9,6 +9,6 @@ public class SumArray {
         {
             add=add+a[i];
         }
-        System.out.println("addition of values of array is"+add);
+        System.out.println("addition of values of array is "+add);
     }
 }
